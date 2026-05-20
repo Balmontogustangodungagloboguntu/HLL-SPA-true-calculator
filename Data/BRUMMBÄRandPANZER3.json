@@ -1,0 +1,113 @@
+﻿{
+    "name": "BRUMMBÄRandPANZER3",
+    "table": [
+        {
+            "distance": 200,
+            "mil": 100
+        },
+        {
+            "distance": 220,
+            "mil": 117
+        },
+        {
+            "distance": 240,
+            "mil": 135
+        },
+        {
+            "distance": 260,
+            "mil": 153
+        },
+        {
+            "distance": 280,
+            "mil": 171
+        },
+        {
+            "distance": 300,
+            "mil": 188
+        },
+        {
+            "distance": 320,
+            "mil": 206
+        },
+        {
+            "distance": 340,
+            "mil": 224
+        },
+        {
+            "distance": 360,
+            "mil": 242
+        },
+        {
+            "distance": 380,
+            "mil": 260
+        },
+        {
+            "distance": 400,
+            "mil": 277
+        },
+        {
+            "distance": 420,
+            "mil": 295
+        },
+        {
+            "distance": 440,
+            "mil": 313
+        },
+        {
+            "distance": 460,
+            "mil": 331
+        },
+        {
+            "distance": 480,
+            "mil": 348
+        },
+        {
+            "distance": 500,
+            "mil": 366
+        },
+        {
+            "distance": 550,
+            "mil": 411
+        },
+        {
+            "distance": 600,
+            "mil": 456
+        },
+        {
+            "distance": 624,
+            "mil": 511
+        },
+        {
+            "distance": 664,
+            "mil": 593
+        },
+        {
+            "distance": 693,
+            "mil": 650
+        },
+        {
+            "distance": 705,
+            "mil": 675
+        },
+        {
+            "distance": 717,
+            "mil": 700
+        },
+        {
+            "distance": 730,
+            "mil": 725
+        },
+        {
+            "distance": 742,
+            "mil": 750
+        },
+        {
+            "distance": 751,
+            "mil": 768
+        },
+        {
+            "distance": 767,
+            "mil": 800
+        }
+    ]
+}

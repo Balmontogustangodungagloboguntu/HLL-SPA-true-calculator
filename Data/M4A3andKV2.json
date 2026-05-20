@@ -1,0 +1,109 @@
+﻿{
+    "name": "M4A3andKV2",
+    "table": [
+        {
+            "distance": 200,
+            "mil": 100
+        },
+        {
+            "distance": 225,
+            "mil": 116
+        },
+        {
+            "distance": 250,
+            "mil": 133
+        },
+        {
+            "distance": 275,
+            "mil": 150
+        },
+        {
+            "distance": 300,
+            "mil": 166
+        },
+        {
+            "distance": 325,
+            "mil": 183
+        },
+        {
+            "distance": 350,
+            "mil": 200
+        },
+        {
+            "distance": 375,
+            "mil": 216
+        },
+        {
+            "distance": 400,
+            "mil": 233
+        },
+        {
+            "distance": 425,
+            "mil": 250
+        },
+        {
+            "distance": 450,
+            "mil": 266
+        },
+        {
+            "distance": 475,
+            "mil": 283
+        },
+        {
+            "distance": 500,
+            "mil": 300
+        },
+        {
+            "distance": 525,
+            "mil": 316
+        },
+        {
+            "distance": 550,
+            "mil": 333
+        },
+        {
+            "distance": 575,
+            "mil": 350
+        },
+        {
+            "distance": 600,
+            "mil": 366
+        },
+        {
+            "distance": 656,
+            "mil": 424
+        },
+        {
+            "distance": 682,
+            "mil": 448
+        },
+        {
+            "distance": 722,
+            "mil": 487
+        },
+        {
+            "distance": 796,
+            "mil": 566
+        },
+        {
+            "distance": 871,
+            "mil": 632
+        },
+        {
+            "distance": 886,
+            "mil": 650
+        },
+        {
+            "distance": 937,
+            "mil": 700
+        },
+        {
+            "distance": 988,
+            "mil": 750
+        },
+        {
+            "distance": 1039,
+            "mil": 800
+        }
+    ]
+}

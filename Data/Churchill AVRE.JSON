@@ -1,0 +1,129 @@
+{
+  "name": "Churchill",
+  "table": [
+    {
+      "distance": 100,
+      "mil": 100
+    },
+    {
+      "distance": 110,
+      "mil": 110
+    },
+    {
+      "distance": 120,
+      "mil": 120
+    },
+    {
+      "distance": 130,
+      "mil": 131
+    },
+    {
+      "distance": 140,
+      "mil": 141
+    },
+    {
+      "distance": 150,
+      "mil": 152
+    },
+    {
+      "distance": 160,
+      "mil": 162
+    },
+    {
+      "distance": 170,
+      "mil": 173
+    },
+    {
+      "distance": 180,
+      "mil": 183
+    },
+    {
+      "distance": 190,
+      "mil": 194
+    },
+    {
+      "distance": 200,
+      "mil": 204
+    },
+    {
+      "distance": 210,
+      "mil": 215
+    },
+    {
+      "distance": 220,
+      "mil": 225
+    },
+    {
+      "distance": 230,
+      "mil": 235
+    },
+    {
+      "distance": 240,
+      "mil": 246
+    },
+    {
+      "distance": 250,
+      "mil": 256
+    },
+    {
+      "distance": 275,
+      "mil": 266
+    },
+    {
+      "distance": 290,
+      "mil": 286
+    },
+    {
+      "distance": 305,
+      "mil": 306
+    },
+    {
+      "distance": 321,
+      "mil": 326
+    },
+    {
+      "distance": 333,
+      "mil": 346
+    },
+    {
+      "distance": 356,
+      "mil": 366
+    },
+    {
+      "distance": 365,
+      "mil": 386
+    },
+    {
+      "distance": 381,
+      "mil": 406
+    },
+    {
+      "distance": 414,
+      "mil": 456
+    },
+    {
+      "distance": 420,
+      "mil": 466
+    },
+    {
+      "distance": 444,
+      "mil": 506
+    },
+    {
+      "distance": 469,
+      "mil": 556
+    },
+    {
+      "distance": 483,
+      "mil": 606
+    },
+    {
+      "distance": 499,
+      "mil": 656
+    },
+    {
+      "distance": 522,
+      "mil": 696
+    }
+  ]
+}
